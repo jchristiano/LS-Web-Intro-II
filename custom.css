@@ -1,0 +1,53 @@
+.navbar-header{
+    color: #fff;
+
+}
+
+.top{
+    background-size: cover;
+    background: center center no-repeat;
+    margin-bottom: 50px;
+    display: block;
+    width: 100%
+}
+
+
+
+.navbar-custom{
+    background: 0 0;
+    border-bottom: 0px;
+    position: absolute;
+}
+
+
+.post-heading{
+    padding-top: 150px;
+    padding-right: 0px;
+    padding-bottom: 150px;
+    padding-left: 0px;
+    color: #fff;
+}
+
+.top-intro .post-heading h1 {
+    font-size: 55px;
+}
+
+.subheading {
+    font-size: 30px;
+}
+
+.meta{
+    font-family: Lora,'Times New Roman',serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+body {
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    }
+
+.foot1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
